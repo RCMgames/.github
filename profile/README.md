@@ -19,12 +19,12 @@
 * 4 motors
 * 5 servos
 
-### (under development)[RCM BYTE a smaller yet more capable design]
+### (under development) [RCM BYTE a smaller yet more capable design](https://github.com/RCMgames/RCM-Hardware-BYTE)
 * about 1x2 inches
 * 8 motors
 * 8 servos
 
-### (under development)[RCM NIBBLE it's half a BYTE]
+### (under development) [RCM NIBBLE it's half a BYTE]()
 * about 1x1 inches
 * 4 motors
 * 4 servos
