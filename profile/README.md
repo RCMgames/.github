@@ -1,19 +1,19 @@
 # Welcome to RCMgames.
 ## Hardware and Software for small wifi controlled robots. 
 
-## [Ask questions](https://github.com/orgs/RCMgames/discussions/categories/q-a)
+# [Ask questions](https://github.com/orgs/RCMgames/discussions/categories/q-a)
 
-## [See examples of robots](https://github.com/orgs/RCMgames/discussions/categories/robots)
+# [See examples of robots](https://github.com/orgs/RCMgames/discussions/categories/robots)
 
-## Driver Interfaces
+# Driver Interfaces
 
 ### [configurable with text files](https://github.com/RCMgames/RCMDS-new)
 
 ### [use Processing and Java to make interfaces for computers and android phones](https://github.com/RCMgames/RCMDS)
 
-## [software for ESP32 powered robot control modules](https://github.com/RCMgames/RCMv2)
+# [software for ESP32 powered robot control modules](https://github.com/RCMgames/RCMv2)
 
-## designs for Robot Control Modules
+# designs for Robot Control Modules
 
 ### [documentation of the original RCM boards](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide)
 * 4 motors
@@ -30,6 +30,6 @@
 * 4 servos
 * built-in IMU
 
-## Connect RCM robots to ROS using MicroROS
+# Connect RCM robots to ROS using MicroROS
 [Example of controlling an omnidirectional robot from ROS2](https://github.com/orgs/RCMgames/discussions/1)
 
