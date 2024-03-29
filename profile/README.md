@@ -18,17 +18,26 @@
 ### [documentation of the original RCM boards](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide)
 * 4 motors
 * 5 servos
+* battery monitoring
+* runs from 5 NiMH AA batteries
 
 ### (under development) [RCM BYTE a smaller yet more capable design](https://github.com/RCMgames/RCM-Hardware-BYTE)
-* about 1x2 inches
+* about 1.25x1.25 inches
 * 8 motors
 * 8 servos
+* battery monitoring
+* I2C connector on QT PY
+* runs on 3-11 volts
 
 ### (under development) [RCM NIBBLE it's half a BYTE](https://github.com/RCMgames/RCM-Hardware-Nibble)
 * about 1x1 inches
 * 4 motors
 * 4 servos
+* 2 additional GPIO pins
 * built-in IMU
+* battery monitoring
+* I2C connector on QT PY
+* runs on 3-11 volts
 
 # Connect RCM robots to ROS using MicroROS
 [Example of controlling an omnidirectional robot from ROS2](https://github.com/orgs/RCMgames/discussions/1)
