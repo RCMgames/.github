@@ -24,7 +24,7 @@
 * 8 motors
 * 8 servos
 
-### (under development) [RCM NIBBLE it's half a BYTE]()
+### (under development) [RCM NIBBLE it's half a BYTE](https://github.com/RCMgames/RCM-Hardware-Nibble)
 * about 1x1 inches
 * 4 motors
 * 4 servos
