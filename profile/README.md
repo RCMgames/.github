@@ -11,7 +11,7 @@
 
 ### [use Processing and Java to make interfaces for computers and android phones](https://github.com/RCMgames/RCMDS)
 
-# software for ESP32 powered robot control modules [RCMv2](https://github.com/RCMgames/RCMv2)
+# software for ESP32 powered robot control modules: [RCMv2](https://github.com/RCMgames/RCMv2)
 
 # designs for Robot Control Modules
 
