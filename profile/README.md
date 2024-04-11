@@ -23,6 +23,15 @@
 * all components are hand-solderable through-hole parts
 * [get printed circuit boards ("V3")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/blob/main/Robot%20Control%20Module/circuit%20diagram%20and%20fritzing%20design/gerber.zip) or [build by hand from a perf board ("V1")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/blob/main/Robot%20Control%20Module/V1%20RCM%20Build%20instructions.pdf)
 
+### (under development) [RCM-Hardware-V4 a better through-hole hand-solderable RCM](https://github.com/RCMgames/RCM-Hardware-V4)
+* 4 motors and 7 servos OR 6 motors and 3 servos
+* runs from 5 NiMH AA batteries OR (_need to test_) 4.5-20v with the addition of voltage regulators
+* all components are hand-solderable through-hole parts
+* [Qwiic-Compatible](https://www.sparkfun.com/qwiic#faqs)
+
+![image](https://github.com/RCMgames/RCM-Hardware-V4/assets/59814881/adccfb06-a9db-4db0-a004-7929c35aa7d5)
+
+
 ### (under development) [RCM BYTE a smaller yet more capable design](https://github.com/RCMgames/RCM-Hardware-BYTE)
 * about 1.25x1.25 inches
 * 8 motors
