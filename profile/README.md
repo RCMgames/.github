@@ -20,7 +20,7 @@
 * 5 servos
 * battery monitoring
 * runs from 5 NiMH AA batteries
-* all components are hand-solderable through hole parts
+* all components are hand-solderable through-hole parts
 * [get printed circuit boards ("V3")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/blob/main/Robot%20Control%20Module/circuit%20diagram%20and%20fritzing%20design/gerber.zip) or [build by hand from a perf board ("V1")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/blob/main/Robot%20Control%20Module/V1%20RCM%20Build%20instructions.pdf)
 
 ### (under development) [RCM BYTE a smaller yet more capable design](https://github.com/RCMgames/RCM-Hardware-BYTE)
