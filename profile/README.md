@@ -29,9 +29,6 @@
 * all components are hand-solderable through-hole parts
 * [Qwiic-Compatible](https://www.sparkfun.com/qwiic#faqs)
 
-![image](https://github.com/RCMgames/RCM-Hardware-V4/assets/59814881/adccfb06-a9db-4db0-a004-7929c35aa7d5)
-
-
 ### (under development) [RCM BYTE a smaller yet more capable design](https://github.com/RCMgames/RCM-Hardware-BYTE)
 * about 1.25x1.25 inches
 * 8 motors
