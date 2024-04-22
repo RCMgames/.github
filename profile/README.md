@@ -1,5 +1,5 @@
 # Welcome to RCMgames.
-## Hardware and Software for small wifi controlled robots. 
+## Hardware (Robot Control Modules) and Software for building small wifi controlled robots. 
 
 # [Ask questions](https://github.com/orgs/RCMgames/discussions/categories/q-a)
 
