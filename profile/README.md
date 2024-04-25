@@ -2,6 +2,7 @@
 ## Hardware (Robot Control Modules) and Software for building small wifi controlled robots. 
 
 # [Ask questions](https://github.com/orgs/RCMgames/discussions/categories/q-a)
+or email robot.control.modules@gmail.com
 
 # [See examples of robots](https://github.com/orgs/RCMgames/discussions/categories/robots)
 
