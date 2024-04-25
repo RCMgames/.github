@@ -17,6 +17,8 @@ or email robot.control.modules@gmail.com
 
 [RCM](https://github.com/RCMgames/RCM) old code for the original boards
 
+## useful bits of code are [here](https://github.com/RCMgames/useful-code)
+
 # Types of Robot Control Modules
 
 ## [RCM 1, 2, and 3](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide) the originals
@@ -47,7 +49,7 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/.github/assets/59814881/72edcbcd-33c1-4e90-968b-ed3cd186c1d5" height="35%" width="35%">
 
-## (under development) [RCM NIBBLE it's half a BYTE](https://github.com/RCMgames/RCM-Hardware-Nibble)
+## (under development) [RCM NIBBLE](https://github.com/RCMgames/RCM-Hardware-Nibble) it's half a BYTE
 * about 1x1 inches
 * 4 motors
 * 4 servos
