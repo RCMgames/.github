@@ -61,6 +61,16 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/.github/assets/59814881/5b6057ba-f43c-48b3-ad4a-4988f07bd62f" height="35%" width="35%">
 
+# Components
+
+## (under development) [Byte Sized Encoder Decoder)(https://github.com/RCMgames/BSCD)
+* Reads 8 quadrature encoders
+* 1.0x0.85 inches
+* I2C (Qwiic Compatible)
+* powered by an ATMega328P
+
+<img src="https://github.com/RCMgames/.github/assets/59814881/ba19df86-09fd-403e-b5a3-6dda2ad8a977" height="35%" width="35%">
+
 # Connect RCM robots to ROS using MicroROS
 [Example of controlling an omnidirectional robot from ROS2](https://github.com/orgs/RCMgames/discussions/1)
 
