@@ -68,6 +68,8 @@ or email robot.control.modules@gmail.com
 * 1.0x0.85 inches
 * I2C (Qwiic Compatible)
 * powered by an ATMega328P
+* hand solderable surface mount components
+
 
 <img src="https://github.com/RCMgames/.github/assets/59814881/ba19df86-09fd-403e-b5a3-6dda2ad8a977" height="35%" width="35%">
 
