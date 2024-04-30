@@ -63,7 +63,7 @@ or email robot.control.modules@gmail.com
 
 # Components
 
-## (under development) [Byte Sized Encoder Decoder)(https://github.com/RCMgames/BSCD)
+## (under development) [Byte Sized Encoder Decoder](https://github.com/RCMgames/BSCD)
 * Reads 8 quadrature encoders
 * 1.0x0.85 inches
 * I2C (Qwiic Compatible)
