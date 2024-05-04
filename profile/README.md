@@ -29,7 +29,7 @@ or email robot.control.modules@gmail.com
 * all components are hand-solderable through-hole parts
 * [get printed circuit boards ("V3")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/main/Robot%20Control%20Module/V3) or [build by hand from a perf board ("V1")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/main/Robot%20Control%20Module/V1)
 
-![image](https://github.com/RCMgames/.github/assets/59814881/db37937a-b7f5-4577-a41f-f9cf68d8a600)
+![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/67813489e1e16a104faf787c31854115694284c5/CAD%20renders/render%201.jpg)
 
 ## (under development) [RCM 4](https://github.com/RCMgames/RCM-Hardware-V4) a better through-hole hand-solderable RCM
 * 4 motors and 7 servos OR 6 motors and 3 servos
