@@ -29,7 +29,7 @@ or email robot.control.modules@gmail.com
 * all components are hand-solderable through-hole parts
 * [get printed circuit boards ("V3")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/main/Robot%20Control%20Module/V3) or [build by hand from a perf board ("V1")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/main/Robot%20Control%20Module/V1)
 
-![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/67813489e1e16a104faf787c31854115694284c5/CAD%20renders/render%201.jpg)
+![image](https://github.com/RCMgames/.github/assets/59814881/db37937a-b7f5-4577-a41f-f9cf68d8a600)
 
 ## (under development) [RCM 4](https://github.com/RCMgames/RCM-Hardware-V4) a better through-hole hand-solderable RCM
 * 4 motors and 7 servos OR 6 motors and 3 servos
@@ -37,7 +37,7 @@ or email robot.control.modules@gmail.com
 * all components are hand-solderable through-hole parts
 * [Qwiic-Compatible](https://www.sparkfun.com/qwiic#faqs)
 
-<img src="https://github.com/RCMgames/.github/assets/59814881/41fdbd06-b086-48a4-9983-459919558a26" height="35%" width="35%">
+<img src="https://github.com/RCMgames/RCM-Hardware-V4/blob/67813489e1e16a104faf787c31854115694284c5/CAD%20renders/render%201.jpg" height="35%" width="35%">
 
 ## (under development) [RCM BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE) a smaller yet more capable design
 * about 1.25x1.25 inches
