@@ -18,6 +18,10 @@ or email robot.control.modules@gmail.com
 [RCM](https://github.com/RCMgames/RCM) old code for the original boards
 
 ## useful bits of code are [here](https://github.com/RCMgames/useful-code)
+* [useful code for using RCM V4s](https://github.com/RCMgames/RCM-Hardware-V4)
+* [useful code for using BYTEs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-BYTE.h)
+* [useful code for using Nibbles](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Nibble.h)
+* [useful code for using original RCMs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Original.h)
 
 # Types of Robot Control Modules
 
@@ -71,6 +75,9 @@ or email robot.control.modules@gmail.com
 * hand solderable surface mount components
 
 <img src="https://github.com/RCMgames/BSED/blob/fd907d3367903d2f684a02541658e857a268ef72/extras/hardware/photos/P1039300.JPG" height="35%" width="35%">
+
+## other suggested components
+https://github.com/RCMgames/useful-code/blob/main/useful-components/useful-components.md
 
 # Connect RCM robots to ROS using MicroROS
 [Example of controlling an omnidirectional robot from ROS2](https://github.com/orgs/RCMgames/discussions/1)
