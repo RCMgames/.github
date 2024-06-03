@@ -82,3 +82,5 @@ https://github.com/RCMgames/useful-code/blob/main/useful-components/useful-compo
 # Connect RCM robots to ROS using MicroROS
 [Example of controlling an omnidirectional robot from ROS2](https://github.com/orgs/RCMgames/discussions/1)
 
+# All these boards are also shared on [PCBWay](https://www.pcbway.com/project/member/?bmbno=3A3EE6C1-4199-43)
+PCBWay sponsored some of the prototyping runs of these boards. PCBWay provides great customer support and produces good boards.
