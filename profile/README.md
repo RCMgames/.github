@@ -74,7 +74,7 @@ or email robot.control.modules@gmail.com
 * powered by an ATMega328P
 * hand solderable surface mount components
 
-<img src="https://github.com/RCMgames/BSED/blob/fd907d3367903d2f684a02541658e857a268ef72/extras/hardware/photos/P1039300.JPG" height="35%" width="35%">
+<img src="https://github.com/RCMgames/BSED/blob/1310fdb7eef3eef2137f9add774d0ee8011ccfcf/extras/hardware/photos/P1040733.JPG" height="35%" width="35%">
 
 ## other suggested components
 https://github.com/RCMgames/useful-code/blob/main/useful-components/useful-components.md
