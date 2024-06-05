@@ -22,6 +22,7 @@ or email robot.control.modules@gmail.com
 * [useful code for using BYTEs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-BYTE.h)
 * [useful code for using Nibbles](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Nibble.h)
 * [useful code for using original RCMs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Original.h)
+* [useful code for using RCM D1s](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-D1.h)
 
 # Types of Robot Control Modules
 
