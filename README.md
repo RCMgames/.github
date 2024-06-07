@@ -1,1 +1,1 @@
-This repository shows up on the front page of the RCMgames organization.
+# [The Front Page of RCMgames](https://github.com/RCMgames/.github/tree/main/profile)
