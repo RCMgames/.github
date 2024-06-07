@@ -36,13 +36,13 @@ or email robot.control.modules@gmail.com
 
 ![image](https://github.com/RCMgames/.github/assets/59814881/db37937a-b7f5-4577-a41f-f9cf68d8a600)
 
-## (under development) [RCM 4](https://github.com/RCMgames/RCM-Hardware-V4) a better through-hole hand-solderable RCM
+## [RCM 4](https://github.com/RCMgames/RCM-Hardware-V4) a better through-hole hand-solderable RCM
 * 4 motors and 7 servos OR 6 motors and 3 servos
 * runs from 5 NiMH AA batteries OR (_need to test_) 4.5-20v with the addition of voltage regulators
 * all components are hand-solderable through-hole parts
 * [Qwiic-Compatible](https://www.sparkfun.com/qwiic#faqs)
 
-<img src="https://github.com/RCMgames/RCM-Hardware-V4/blob/67813489e1e16a104faf787c31854115694284c5/CAD%20renders/render%201.jpg" height="35%" width="35%">
+<img src="https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040795.JPG" height="35%" width="45%">
 
 ## (under development) [RCM BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE) a smaller yet more capable design
 * about 1.25x1.25 inches
