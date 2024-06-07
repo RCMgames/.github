@@ -54,7 +54,7 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/.github/assets/59814881/72edcbcd-33c1-4e90-968b-ed3cd186c1d5" height="35%" width="35%">
 
-## (under development) [RCM NIBBLE](https://github.com/RCMgames/RCM-Hardware-Nibble) it's half a BYTE
+## [RCM NIBBLE](https://github.com/RCMgames/RCM-Hardware-Nibble) it's half a BYTE
 * about 1x1 inches
 * 4 motors
 * 4 servos
@@ -64,7 +64,7 @@ or email robot.control.modules@gmail.com
 * I2C connector on QT PY
 * runs on 3-11 volts
 
-<img src="https://github.com/RCMgames/.github/assets/59814881/5b6057ba-f43c-48b3-ad4a-4988f07bd62f" height="35%" width="35%">
+<img src="https://github.com/RCMgames/RCM-Hardware-Nibble/blob/5cc9267ceca6876412c50ad4705f115df2f20e71/photos/P1040798.JPG" height="35%" width="35%">
 
 # Components
 
