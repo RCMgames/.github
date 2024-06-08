@@ -52,7 +52,7 @@ or email robot.control.modules@gmail.com
 * I2C connector on QT PY
 * runs on 3-11 volts
 
-<img src="https://github.com/RCMgames/.github/assets/59814881/72edcbcd-33c1-4e90-968b-ed3cd186c1d5" height="35%" width="35%">
+<img src="https://github.com/RCMgames/RCM-Hardware-BYTE/blob/67634be8aeb1c3cb82b1d1cb7a75f85f452896bf/photos/P1040746.JPG" height="35%" width="35%">
 
 ## [RCM NIBBLE](https://github.com/RCMgames/RCM-Hardware-Nibble) it's half a BYTE
 * about 1x1 inches
