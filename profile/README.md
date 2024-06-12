@@ -31,6 +31,7 @@ or email robot.control.modules@gmail.com
 * 5 servos
 * battery monitoring
 * runs from 5 NiMH AA batteries
+* 2 x 3 inches, 50.8 x 76.2 mm
 * all components are hand-solderable through-hole parts
 * [get printed circuit boards ("V3")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/main/Robot%20Control%20Module/V3) or [build by hand from a perf board ("V1")](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/main/Robot%20Control%20Module/V1)
 
