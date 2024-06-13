@@ -79,7 +79,7 @@ or email robot.control.modules@gmail.com
 <img src="https://github.com/RCMgames/BSED/blob/1310fdb7eef3eef2137f9add774d0ee8011ccfcf/extras/hardware/photos/P1040733.JPG" height="35%" width="35%">
 
 ## other suggested components
-https://github.com/RCMgames/useful-code/blob/main/useful-components/useful-components.md
+https://github.com/RCMgames/useful-code/tree/main/useful-components
 
 # Connect RCM robots to ROS using MicroROS
 [Example of controlling an omnidirectional robot from ROS2](https://github.com/orgs/RCMgames/discussions/1)
