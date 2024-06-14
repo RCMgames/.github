@@ -67,13 +67,19 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/RCM-Hardware-Nibble/blob/5cc9267ceca6876412c50ad4705f115df2f20e71/photos/P1040798.JPG" height="35%" width="35%">
 
+## (under development) [RCM D1](https://github.com/RCMgames/RCM-hardware-D1) lowest cost RCM
+* 2 motors (one L293D)
+* 2 servos OR qwiic connector
+* runs on 4 NiMH AAs
+* uses a Wemos D1 mini with esp8266 CPU
+
 # Components
 
 ## [Byte Sized Encoder Decoder](https://github.com/RCMgames/BSCD)
 * Reads 8 quadrature encoders
 * 1.0x0.85 inches
 * I2C (Qwiic Compatible)
-* powered by an ATMega328P
+* powered by an ATMega328PB
 * hand solderable surface mount components
 
 <img src="https://github.com/RCMgames/BSED/blob/1310fdb7eef3eef2137f9add774d0ee8011ccfcf/extras/hardware/photos/P1040733.JPG" height="35%" width="35%">
