@@ -45,7 +45,7 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040795.JPG" height="35%" width="45%">
 
-## (under development) [RCM BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE) a smaller yet more capable design
+## [RCM BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE) a smaller yet more capable design
 * about 1.25x1.25 inches
 * 8 motors
 * 8 servos
