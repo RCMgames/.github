@@ -67,11 +67,13 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/RCM-Hardware-Nibble/blob/5cc9267ceca6876412c50ad4705f115df2f20e71/photos/P1040798.JPG" height="35%" width="35%">
 
-## (under development) [RCM D1](https://github.com/RCMgames/RCM-hardware-D1) lowest cost RCM
+## [RCM D1](https://github.com/RCMgames/RCM-hardware-D1) lowest cost RCM
 * 2 motors (one L293D)
 * 2 servos OR qwiic connector
 * runs on 4 NiMH AAs
 * uses a Wemos D1 mini with esp8266 CPU
+
+<img src="https://github.com/RCMgames/RCM-hardware-D1/blob/4b10ade22e7fdc5194d4660f2517314b59b99ca4/CAD%20renders/image%201.jpg" height="35%" width="35%">
 
 # Components
 
