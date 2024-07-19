@@ -26,6 +26,8 @@ or email robot.control.modules@gmail.com
 
 # Types of Robot Control Modules
 
+---
+
 ## [RCM 1, 2, and 3](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide) the originals
 * 4 motors
 * 5 servos
@@ -36,6 +38,8 @@ or email robot.control.modules@gmail.com
 
 ![image](https://github.com/RCMgames/.github/assets/59814881/db37937a-b7f5-4577-a41f-f9cf68d8a600)
 
+---
+
 ## [RCM 4](https://github.com/RCMgames/RCM-Hardware-V4) a better through-hole hand-solderable RCM
 * 2 x 3 inches, 50.8 x 76.2 mm
 * 4 motors and 7 servos OR 6 motors and 3 servos
@@ -44,6 +48,8 @@ or email robot.control.modules@gmail.com
 * [Qwiic-Compatible](https://www.sparkfun.com/qwiic#faqs)
 
 <img src="https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040795.JPG" height="35%" width="45%">
+
+---
 
 ## [RCM BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE) a smaller yet more capable design
 * about 1.25x1.25 inches
@@ -54,6 +60,8 @@ or email robot.control.modules@gmail.com
 * runs on 3-11 volts
 
 <img src="https://github.com/RCMgames/RCM-Hardware-BYTE/blob/67634be8aeb1c3cb82b1d1cb7a75f85f452896bf/photos/P1040746.JPG" height="35%" width="35%">
+
+---
 
 ## [RCM NIBBLE](https://github.com/RCMgames/RCM-Hardware-Nibble) it's half a BYTE
 * about 1x1 inches
@@ -67,6 +75,8 @@ or email robot.control.modules@gmail.com
 
 <img src="https://github.com/RCMgames/RCM-Hardware-Nibble/blob/5cc9267ceca6876412c50ad4705f115df2f20e71/photos/P1040798.JPG" height="35%" width="35%">
 
+---
+
 ## [RCM D1](https://github.com/RCMgames/RCM-hardware-D1) lowest cost RCM
 * 1.75 by 1.575 inches, 44.45 by 40.0 millimeters
 * 2 motors (one L293D)
@@ -77,6 +87,8 @@ or email robot.control.modules@gmail.com
 * uses a Wemos D1 mini with esp8266 CPU
 
 <img src="https://github.com/RCMgames/RCM-hardware-D1/blob/4b10ade22e7fdc5194d4660f2517314b59b99ca4/CAD%20renders/image%201.jpg" height="35%" width="35%">
+
+---
 
 # Components
 
