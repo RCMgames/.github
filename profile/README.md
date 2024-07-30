@@ -86,7 +86,7 @@ or email robot.control.modules@gmail.com
 * battery monitoring
 * uses a Wemos D1 mini with esp8266 CPU
 
-<img src="https://github.com/RCMgames/RCM-hardware-D1/blob/4b10ade22e7fdc5194d4660f2517314b59b99ca4/CAD%20renders/image%201.jpg" height="35%" width="35%">
+<img src="https://github.com/RCMgames/RCM-hardware-D1/blob/4e2fc0ec890348c75a8239374bd78f8cda3d46ad/Photos/image%201.JPG" height="35%" width="35%">
 
 ---
 
