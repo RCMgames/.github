@@ -23,6 +23,8 @@ or email robot.control.modules@gmail.com
 * [useful code for using Nibbles](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Nibble.h)
 * [useful code for using original RCMs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Original.h)
 * [useful code for using RCM D1s](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-D1.h)
+* [useful code](https://github.com/RCMgames/useful-code/blob/main/boards/Alfredo_Systems-NOU2.h) for using [Alfredo Systems NoU2s](https://www.alfredosys.com/products/alfredo-nou2/)
+* [useful code](https://github.com/RCMgames/useful-code/blob/main/boards/Alfredo_Systems-NOU3.h) for using [Alfredo Systems NoU3s](https://www.alfredosys.com/products/alfredo-nou3/)
 
 # Types of Robot Control Modules
 
