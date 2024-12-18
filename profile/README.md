@@ -13,9 +13,15 @@ or email robot.control.modules@gmail.com
 ### [use Processing and Java to make interfaces for computers and android phones](https://github.com/RCMgames/RCMDS)
 
 # software for ESP32 powered robot control modules
-## [RCMv2](https://github.com/RCMgames/RCMv2)
 
-[RCM](https://github.com/RCMgames/RCM) old code for the original boards
+## [RCMv3](https://github.com/RCMgames/RCMv2)
+Use a website to configure and program your robot without writing any code.
+
+## [RCMv2](https://github.com/RCMgames/RCMv2)
+Template code for your robot, uses PlatformIO/C++/Arduino
+
+## [RCM](https://github.com/RCMgames/RCM) 
+Original Arduino code template for the first version of RCM boards.
 
 ## useful bits of code are [here](https://github.com/RCMgames/useful-code)
 * [useful code for using RCM V4s](https://github.com/RCMgames/RCM-Hardware-V4)
