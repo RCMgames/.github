@@ -14,7 +14,7 @@ or email robot.control.modules@gmail.com
 
 # software for ESP32 powered robot control modules
 
-## [RCMv3](https://github.com/RCMgames/RCMv2)
+## [RCMv3](https://github.com/RCMgames/RCMv3)
 Use a website to configure and program your robot without writing any code.
 
 ## [RCMv2](https://github.com/RCMgames/RCMv2)
