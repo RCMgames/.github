@@ -24,7 +24,7 @@ Template code for your robot, uses PlatformIO/C++/Arduino
 Original Arduino code template for the first version of RCM boards.
 
 ## useful bits of code are [here](https://github.com/RCMgames/useful-code)
-* [useful code for using RCM V4s](https://github.com/RCMgames/RCM-Hardware-V4)
+* [useful code for using RCM V4s](https://github.com/RCMgames/useful-code/tree/main/boards/RCM-V4)
 * [useful code for using BYTEs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-BYTE.h)
 * [useful code for using Nibbles](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Nibble.h)
 * [useful code for using original RCMs](https://github.com/RCMgames/useful-code/blob/main/boards/RCM-Original.h)
